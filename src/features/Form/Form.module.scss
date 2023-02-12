@@ -1,0 +1,25 @@
+.wrapper {
+  margin: 0 auto;
+  max-width: 889px;
+  width: 100%;
+  text-align: start;
+  span {
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 52px;
+    color: var(--black);
+    display: block;
+    padding-bottom: 20px;
+  }
+}
+
+.error {
+  padding-top: 8px;
+  color: var(--gold);
+}
+
+.error_icon {
+  position: absolute;
+  right: 113px;
+  top: 36px;
+}
