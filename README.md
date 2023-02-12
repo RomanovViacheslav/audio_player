@@ -1,3 +1,8 @@
+Для тестирования приложения можно использовать ссылки:
+https://c5.radioboss.fm:18084/stream
+
+https://lalalai.s3.us-west-2.amazonaws.com/media/split/a7564eb8-cbf2-40e2-9cb8-6061d8d055a7/no_vocals
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
